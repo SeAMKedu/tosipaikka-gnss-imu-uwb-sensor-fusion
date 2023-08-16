@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/679155888.svg)](https://zenodo.org/badge/latestdoi/679155888)
+
 ![logot](/images/tosipaikka_logot.png)
 
 # TosiPaikka - GNSS-IMU-UWB Sensor Fusion
